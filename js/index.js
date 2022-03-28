@@ -1,4 +1,4 @@
-const dlocalInstance = dlocal('a99f78e6-5872-4690-a4bc-a0acff20c633\n');
+const dlocalInstance = dlocal('a99f78e6-5872-4690-a4bc-a0acff20c633');
 
 const today = new Date();
 const month = today.getMonth() + 1
