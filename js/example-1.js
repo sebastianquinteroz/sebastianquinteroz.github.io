@@ -3,7 +3,7 @@ const fieldsExample1 = dlocalInstance.fields({
         cssSrc: 'https://rsms.me/inter/inter-ui.css'
     }],
     locale: 'en',
-    country: 'BR'
+    country: 'TR'
 });
 
 var example1 = document.querySelector(".example-1");
